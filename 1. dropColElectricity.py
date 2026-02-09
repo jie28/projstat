@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('./elecgen.csv')
+df = pd.read_csv('./ElectricityOrig.csv')
 
 columns = ['Area', 'ISO 3 code', 'Year','Continent','EU','OECD','G20','G7','ASEAN','Category','Subcategory','Variable','Unit','Value','YoY absolute change','YoY % change']
 dupl_area = ['EU', 'OECD', 'G20', 'G7', 'ASEAN', 'World', 'Europe', 'Asia', 'Latin America and Caribbean', 'Middle East', 'North America', 'Oceania', 'Africa']
