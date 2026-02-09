@@ -2,7 +2,7 @@ import pandas as pd
 
 gdp = pd.read_csv('./GdpOrig.csv')
 
-elec = pd.read_csv('./ElectricityOrig.csv')
+elec = pd.read_csv('./ElectricityFiltered.csv')
 
 cl = ['Area', 'ISO 3 code', 'Year', 'Continent', 'EU', 'OECD', 'G20', 'G7', 'ASEAN', 'Category', 'Subcategory', 'Variable', 'Unit', 'Value', 'YoY absolute change', 'YoY % change']
 
