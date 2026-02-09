@@ -1,0 +1,110 @@
+Area
+
+ISO 3 code
+
+Year
+
+Continent
+
+EU
+
+OECD
+
+G20
+
+G7
+
+ASEAN
+
+Category and Subcategory
+|______ Capacity [GW]
+	|
+	|______ Aggregate fuel
+	|	|______ Clean
+	|	|______ Renewable
+	|	|______ "Hydro, Bioenergy, and Other Renewables"
+	|	|______ Wind and Solar
+	|	|______ Fossil
+	|	|______ Gas and Other Fossil
+	|	 
+	|______ Fuel
+	|	|______ Nuclear
+	|	|______ Hydro
+	|	|______ Solar
+	|	|______ Wind
+	|	|______ Bioenergy
+	|	|______ Other Renewables
+	|	|______ Coal
+	|	|______ Gas
+	|	|______ Other Fossil
+	|
+	|
+	Electricity generation [%, TWh]
+	|
+	|______ Aggregate fuel
+	|	|______ Clean
+	|	|______ Renewable
+	|	|______ "Hydro, Bioenergy, and Other Renewables"
+	|	|______ Wind and Solar
+	|	|______ Fossil
+	|	|______ Gas and Other Fossil
+	|	 
+	|______ Fuel
+	|	|______ Nuclear
+	|	|______ Hydro
+	|	|______ Solar
+	|	|______ Wind
+	|	|______ Bioenergy
+	|	|______ Other Renewables
+	|	|______ Coal
+	|	|______ Gas
+	|	|______ Other Fossil
+	|
+	|______ Total [TWh]
+	|	|______ Total Generation
+	|
+	|
+	Electricity imports [TWh]
+	|
+	|______ Electricity imports
+	|	|______ Net Imports
+	|
+	|
+	Power sector emissions
+	|
+	|______ Aggregate fuel [mtCO2]
+	|	|______ Clean
+	|	|______ Renewable
+	|	|______ "Hydro, Bioenergy, and Other Renewables"
+	|	|______ Wind and Solar
+	|	|______ Fossil
+	|	|______ Gas and Other Fossil
+	|	 
+	|______ Fuel [mtCO2]
+	|	|______ Nuclear
+	|	|______ Hydro
+	|	|______ Solar
+	|	|______ Wind
+	|	|______ Bioenergy
+	|	|______ Other Renewables
+	|	|______ Coal
+	|	|______ Gas
+	|	|______ Other Fossil
+	|
+	|______ Total [mtCO2]
+	|	|______ Total emissions
+	|
+	|______ CO2 intensity [gCO2/kWh]
+	|
+	|
+	GDP [USD]
+	
+Variable
+
+Unit
+
+Value
+
+YoY absolute change
+
+YoY % change
