@@ -10,4 +10,4 @@ df.drop(df.loc[df['Area'].isin(dupl_area)].index, inplace=True)
 df.drop(df[df['Year'] == 2025].index, inplace=True)
 df.drop(df[df['Category'] == 'Electricity demand'].index, inplace=True)
 
-df.to_csv('./elecgen2.csv', index=False)
+df.to_csv('./ElectricityFiltered.csv', index=False)
